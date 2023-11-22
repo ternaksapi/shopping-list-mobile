@@ -1,16 +1,13 @@
-# shopping_list
+Muhammad Yusuf Haikal
+2206081490
+PBP F
 
-A new Flutter project.
+# shopping_list_mobile
 
-## Getting Started
+## Tutorial 9
 
-This project is a starting point for a Flutter application.
+### Build Status Badge
+https://build.appcenter.ms/v0.1/apps/7d8c19c9-54c7-4cfe-bbe5-5777184c2d8a/branches/main/badge
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Build Public
+https://install.appcenter.ms/orgs/yusufhaikal/apps/shopping-list/distribution_groups/public
